@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Zeyno
+ *
+ */
+module javaCamp {
+}
